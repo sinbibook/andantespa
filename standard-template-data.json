@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.10.0",
-    "generatedAt": "2026-04-13T02:10:53.524Z",
+    "version": "1.11.0",
+    "generatedAt": "2026-04-16T03:40:28.121Z",
     "templateType": "fullpage_visual",
     "propertyId": "441011ea-5bbe-4477-b027-59149dd6f217",
     "homepageId": "cf1ecfe2-1b26-4fde-8ae4-e2a6130be25b"
@@ -124,6 +124,14 @@
         ]
       },
       {
+        "id": "3df0d62d-76f7-4529-80d6-818c29953cfd",
+        "name": "1층 마당 수영장",
+        "description": "더운 여름을 안단테 수영장과 함께하세요 ! ",
+        "usageGuide": "- 운영기간 : 추후안내예정\n- 이용시간 : 입실시 ~ 21시\n- 이용복장 : 수영복 / 래쉬가드(면티 착용불가)\n\n※ 공용수영장 이용안내\n- 분실물에 관하여 책임지지 않습니다.\n- 반드시 샤워 후에 이용해주세요.\n- 썬텐크림이나 오일은 몸에 바른 채로 입수할 수 없습니다.\n- 여분의 타월은 직접 챙겨 오셔야 합니다.\n- 다이빙은 절대 금지합니다.\n- 음주 후에 입수는 불가하며, 수영장 내에서 뛰거나 고성방가는 금지합니다.\n- 스피커를 이용한 음악 재생은 금지합니다.\n- 유아를 동반한 보호자께서는 각별한 주의 바랍니다.\n- 수영장 및 펜션에서 고객의 부주의로 일어난 안전사고에 대해서는 책임지지 않습니다.",
+        "displayOrder": 146,
+        "images": []
+      },
+      {
         "id": "9f6e61f5-4fff-4be2-8f6d-36955e6e8d9c",
         "name": "스파",
         "description": "오션뷰를 바라보면 즐기는 스파 ! ",
@@ -203,8 +211,87 @@
     },
     "images": [
       {
-        "thumbnail": [],
-        "exterior": [],
+        "thumbnail": [
+          {
+            "id": "5654b83d-daf8-4a37-b08d-8a5876a46cea",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/441011ea-5bbe-4477-b027-59149dd6f217/thumbnail/1776146620889-b6ql5fchf38.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ],
+        "exterior": [
+          {
+            "id": "5d794f51-1a36-45e7-9e0f-aecfa8c6c615",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/441011ea-5bbe-4477-b027-59149dd6f217/exterior/1776146620890-k6rlbd7sbuj.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "07ed7312-6101-4cf9-ac33-bb22e975a73a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/441011ea-5bbe-4477-b027-59149dd6f217/exterior/1776146620890-zj64nh8oem.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "9970b7e6-665c-4726-a14d-f6dd76199482",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/441011ea-5bbe-4477-b027-59149dd6f217/exterior/1776146620890-xsqjp3qn7y.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "dde49a20-6cc5-4c90-ae9d-2ec717a51326",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/441011ea-5bbe-4477-b027-59149dd6f217/exterior/1776146620890-17tp2xj7bhf.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "3f4e419b-9c2f-4e1f-84f3-cb95e095bd0d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/441011ea-5bbe-4477-b027-59149dd6f217/exterior/1776146620890-9aiqck49uk.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "40f67c83-525b-46ff-9674-30496ea3d8b7",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/441011ea-5bbe-4477-b027-59149dd6f217/exterior/1776146620890-ss3flsynxz.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "1511c957-ee86-4322-9735-6580c6ff27f8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/441011ea-5bbe-4477-b027-59149dd6f217/exterior/1776146620890-a6cfpfnf7kv.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "0816dd8a-79bb-4c57-8bb2-1a36114199cf",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/441011ea-5bbe-4477-b027-59149dd6f217/exterior/1776146620890-n2idigfal9s.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "78fa569d-ba7d-4e1f-881f-b4a4394ea76f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/441011ea-5bbe-4477-b027-59149dd6f217/exterior/1776146620890-satf1n5f8l.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "5f436a77-fb7b-4215-aba7-8476b4b86964",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/441011ea-5bbe-4477-b027-59149dd6f217/exterior/1776146620890-biv7zi4u82s.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true
+          }
+        ],
         "surrounding": [],
         "commonArea": []
       }
@@ -212,23 +299,40 @@
     "nameEn": "Yeosu Andante Spa Pension",
     "domain": "andantespa.kr",
     "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/11645",
-    "ybsId": ""
+    "ybsId": "79953"
   },
   "rooms": [
     {
       "id": "1a86505f-3be0-428c-80be-6ad4bde1aab0",
+      "propertyId": "441011ea-5bbe-4477-b027-59149dd6f217",
+      "propertyName": "여수 안단테 스파펜션",
       "name": "101호(오션뷰,테라스,애견동반)",
+      "nameEn": "101 (Ocean View, Pet-Friendly)",
       "description": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월이상~성인 10,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가",
       "group": null,
       "size": 49.59,
+      "sizePyeong": 15,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -256,6 +360,7 @@
         "복층"
       ],
       "status": "active",
+      "bankAccountId": "7d5ab83e-b605-41d7-b359-7826d54300f6",
       "images": [
         {
           "thumbnail": [],
@@ -263,22 +368,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 0
+      "displayOrder": 0,
+      "createdAt": "2026-04-06T03:32:19.656Z",
+      "updatedAt": "2026-04-10T08:41:20.270Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "b44df484-2787-43ca-add4-16bba0d8bc83"
     },
     {
       "id": "6ead5f31-4fb6-4808-b258-db64d206d9a6",
+      "propertyId": "441011ea-5bbe-4477-b027-59149dd6f217",
+      "propertyName": "여수 안단테 스파펜션",
       "name": "102호(오션뷰,테라스,애견동반)",
+      "nameEn": "102 (Ocean View, Pet-Friendly)",
       "description": "복층형, 거실1+침대룸(퀸침대1)+침대룸(퀸침대1)+주방1+화장실2",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대1)+침대룸(퀸침대1)+주방1+화장실2",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월이상~성인 10,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가",
       "group": null,
       "size": 62.81,
+      "sizePyeong": 19,
       "baseOccupancy": 4,
       "maxOccupancy": 6,
       "totalRoomCount": {
         "bedroom": 2,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -307,6 +433,7 @@
         "복층"
       ],
       "status": "active",
+      "bankAccountId": "7d5ab83e-b605-41d7-b359-7826d54300f6",
       "images": [
         {
           "thumbnail": [],
@@ -314,22 +441,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 1
+      "displayOrder": 1,
+      "createdAt": "2026-04-06T03:32:19.715Z",
+      "updatedAt": "2026-04-10T08:41:32.158Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "b44df484-2787-43ca-add4-16bba0d8bc83"
     },
     {
       "id": "ee451450-7bed-4319-8643-4b830d911f0d",
+      "propertyId": "441011ea-5bbe-4477-b027-59149dd6f217",
+      "propertyName": "여수 안단테 스파펜션",
       "name": "103호(오션뷰,테라스,애견동반)",
+      "nameEn": "103 (Ocean View, Pet-Friendly)",
       "description": "복층형, 거실1+침대룸(퀸침대1)+침대룸(퀸침대1)+주방1+화장실2",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대1)+침대룸(퀸침대1)+주방1+화장실2",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월이상~성인 10,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가",
       "group": null,
       "size": 62.81,
+      "sizePyeong": 19,
       "baseOccupancy": 4,
       "maxOccupancy": 6,
       "totalRoomCount": {
         "bedroom": 2,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -358,6 +506,7 @@
         "복층"
       ],
       "status": "active",
+      "bankAccountId": "7d5ab83e-b605-41d7-b359-7826d54300f6",
       "images": [
         {
           "thumbnail": [],
@@ -365,22 +514,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 2
+      "displayOrder": 2,
+      "createdAt": "2026-04-06T03:32:19.692Z",
+      "updatedAt": "2026-04-10T08:41:42.543Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "b44df484-2787-43ca-add4-16bba0d8bc83"
     },
     {
       "id": "84280bdc-de50-4b86-808a-88c0c1c078f0",
+      "propertyId": "441011ea-5bbe-4477-b027-59149dd6f217",
+      "propertyName": "여수 안단테 스파펜션",
       "name": "104호(오션뷰,테라스,애견동반)",
+      "nameEn": "104 (Ocean View, Pet-Friendly)",
       "description": "복층형, 거실1+침대룸(퀸침대1)+침대룸(퀸침대1)+주방1+화장실2",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대1)+침대룸(퀸침대1)+주방1+화장실2",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월이상~성인 10,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가",
       "group": null,
       "size": 62.81,
+      "sizePyeong": 19,
       "baseOccupancy": 4,
       "maxOccupancy": 6,
       "totalRoomCount": {
         "bedroom": 2,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -409,6 +579,7 @@
         "복층"
       ],
       "status": "active",
+      "bankAccountId": "7d5ab83e-b605-41d7-b359-7826d54300f6",
       "images": [
         {
           "thumbnail": [],
@@ -416,22 +587,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 3
+      "displayOrder": 3,
+      "createdAt": "2026-04-06T03:32:19.740Z",
+      "updatedAt": "2026-04-10T08:41:55.812Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "b44df484-2787-43ca-add4-16bba0d8bc83"
     },
     {
       "id": "5cc14a84-2777-4d21-913d-742bec5b1279",
+      "propertyId": "441011ea-5bbe-4477-b027-59149dd6f217",
+      "propertyName": "여수 안단테 스파펜션",
       "name": "201호(오션뷰,테라스,애견동반)",
+      "nameEn": "201 (Ocean View, Pet-Friendly)",
       "description": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월이상~성인 10,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가",
       "group": null,
       "size": 56.2,
+      "sizePyeong": 17,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -459,6 +651,7 @@
         "복층"
       ],
       "status": "active",
+      "bankAccountId": "7d5ab83e-b605-41d7-b359-7826d54300f6",
       "images": [
         {
           "thumbnail": [],
@@ -466,22 +659,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 4
+      "displayOrder": 4,
+      "createdAt": "2026-04-06T03:32:19.742Z",
+      "updatedAt": "2026-04-10T08:42:05.807Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "b44df484-2787-43ca-add4-16bba0d8bc83"
     },
     {
       "id": "2a7d2ff9-bfa7-4082-bba8-8acbc26b2df7",
+      "propertyId": "441011ea-5bbe-4477-b027-59149dd6f217",
+      "propertyName": "여수 안단테 스파펜션",
       "name": "202호(오션뷰,테라스,애견동반)",
+      "nameEn": "202 (Ocean View, Pet-Friendly)",
       "description": "복층형, 거실1+침대룸(퀸침대1)+온돌룸(침구세트1)+주방1+화장실2",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대1)+온돌룸(침구세트1)+주방1+화장실2",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월이상~성인 10,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가",
       "group": null,
       "size": 66.12,
+      "sizePyeong": 20,
       "baseOccupancy": 2,
       "maxOccupancy": 6,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 1,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -510,6 +724,7 @@
         "복층"
       ],
       "status": "active",
+      "bankAccountId": "7d5ab83e-b605-41d7-b359-7826d54300f6",
       "images": [
         {
           "thumbnail": [],
@@ -517,22 +732,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 5
+      "displayOrder": 5,
+      "createdAt": "2026-04-06T03:32:19.692Z",
+      "updatedAt": "2026-04-10T08:42:14.370Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "b44df484-2787-43ca-add4-16bba0d8bc83"
     },
     {
       "id": "de336d9f-e975-4917-800b-f28c2e55884e",
+      "propertyId": "441011ea-5bbe-4477-b027-59149dd6f217",
+      "propertyName": "여수 안단테 스파펜션",
       "name": "203호(스파, 오션뷰,테라스,애견동반)",
+      "nameEn": "203 (Spa, Pet-Friendly)",
       "description": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월이상~성인 10,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가",
       "group": null,
       "size": 49.59,
+      "sizePyeong": 15,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -561,6 +797,7 @@
         "복층"
       ],
       "status": "active",
+      "bankAccountId": "7d5ab83e-b605-41d7-b359-7826d54300f6",
       "images": [
         {
           "thumbnail": [],
@@ -568,22 +805,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 6
+      "displayOrder": 6,
+      "createdAt": "2026-04-06T03:32:19.599Z",
+      "updatedAt": "2026-04-10T08:42:26.165Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "b44df484-2787-43ca-add4-16bba0d8bc83"
     },
     {
       "id": "bc00fdc7-b7b4-47be-8b1f-7182281479ca",
+      "propertyId": "441011ea-5bbe-4477-b027-59149dd6f217",
+      "propertyName": "여수 안단테 스파펜션",
       "name": "204호(오션뷰,테라스,애견동반)",
+      "nameEn": "204 (Ocean View, Pet-Friendly)",
       "description": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월이상~성인 10,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가",
       "group": null,
       "size": 56.2,
+      "sizePyeong": 17,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -611,6 +869,7 @@
         "복층"
       ],
       "status": "active",
+      "bankAccountId": "7d5ab83e-b605-41d7-b359-7826d54300f6",
       "images": [
         {
           "thumbnail": [],
@@ -618,22 +877,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 7
+      "displayOrder": 7,
+      "createdAt": "2026-04-06T03:32:19.700Z",
+      "updatedAt": "2026-04-10T08:42:51.185Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "b44df484-2787-43ca-add4-16bba0d8bc83"
     },
     {
       "id": "ca217cfa-1eb5-4b4b-82c3-97003e65fbdb",
+      "propertyId": "441011ea-5bbe-4477-b027-59149dd6f217",
+      "propertyName": "여수 안단테 스파펜션",
       "name": "301호(오션뷰,테라스,애견동반)",
+      "nameEn": "301 (Ocean View, Pet-Friendly)",
       "description": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월이상~성인 10,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가",
       "group": null,
       "size": 49.59,
+      "sizePyeong": 15,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -661,6 +941,7 @@
         "복층"
       ],
       "status": "active",
+      "bankAccountId": "7d5ab83e-b605-41d7-b359-7826d54300f6",
       "images": [
         {
           "thumbnail": [],
@@ -668,22 +949,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 8
+      "displayOrder": 8,
+      "createdAt": "2026-04-06T03:32:19.688Z",
+      "updatedAt": "2026-04-10T08:42:37.583Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "b44df484-2787-43ca-add4-16bba0d8bc83"
     },
     {
       "id": "b56cba54-e3b4-4269-8050-d6762efa9d99",
+      "propertyId": "441011ea-5bbe-4477-b027-59149dd6f217",
+      "propertyName": "여수 안단테 스파펜션",
       "name": "302호(스파, 오션뷰,테라스,애견동반)",
+      "nameEn": "302 (Spa, Pet-Friendly)",
       "description": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월이상~성인 10,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가",
       "group": null,
       "size": 42.98,
+      "sizePyeong": 13,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -712,6 +1014,7 @@
         "복층"
       ],
       "status": "active",
+      "bankAccountId": "7d5ab83e-b605-41d7-b359-7826d54300f6",
       "images": [
         {
           "thumbnail": [],
@@ -719,22 +1022,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 9
+      "displayOrder": 9,
+      "createdAt": "2026-04-06T03:32:19.173Z",
+      "updatedAt": "2026-04-10T08:43:16.167Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "b44df484-2787-43ca-add4-16bba0d8bc83"
     },
     {
       "id": "2e42e779-fc68-4c58-82c9-022ba0214981",
+      "propertyId": "441011ea-5bbe-4477-b027-59149dd6f217",
+      "propertyName": "여수 안단테 스파펜션",
       "name": "303호(스파, 오션뷰,테라스,애견동반)",
+      "nameEn": "303 (Spa, Pet-Friendly)",
       "description": "",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월이상~성인 10,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가",
       "group": null,
       "size": 42.98,
+      "sizePyeong": 13,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -763,6 +1087,7 @@
         "복층"
       ],
       "status": "active",
+      "bankAccountId": "7d5ab83e-b605-41d7-b359-7826d54300f6",
       "images": [
         {
           "thumbnail": [],
@@ -770,22 +1095,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 10
+      "displayOrder": 10,
+      "createdAt": "2026-04-06T03:32:19.613Z",
+      "updatedAt": "2026-04-10T03:24:11.948Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
     {
       "id": "402ed726-92fe-4ff2-93ed-4aeeacff1929",
+      "propertyId": "441011ea-5bbe-4477-b027-59149dd6f217",
+      "propertyName": "여수 안단테 스파펜션",
       "name": "304호(스파, 오션뷰,테라스,애견동반)",
+      "nameEn": "304 (Spa, Pet-Friendly)",
       "description": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월이상~성인 10,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가",
       "group": null,
       "size": 49.59,
+      "sizePyeong": 15,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -814,6 +1160,7 @@
         "복층"
       ],
       "status": "active",
+      "bankAccountId": "7d5ab83e-b605-41d7-b359-7826d54300f6",
       "images": [
         {
           "thumbnail": [],
@@ -821,7 +1168,11 @@
           "exterior": []
         }
       ],
-      "displayOrder": 11
+      "displayOrder": 11,
+      "createdAt": "2026-04-06T03:32:19.600Z",
+      "updatedAt": "2026-04-10T08:43:28.101Z",
+      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
+      "updatedBy": "b44df484-2787-43ca-add4-16bba0d8bc83"
     }
   ],
   "homepage": {
@@ -925,7 +1276,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": "여수 안단테 스파펜션"
+                "description": "여수 안단테 스파펜션",
+                "mediaType": "image",
+                "videos": []
               },
               "closing": {
                 "title": "A quiet stay filled with ocean views and gentle rest.",
@@ -938,7 +1291,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": " "
+                "description": " ",
+                "mediaType": "image",
+                "videos": []
               },
               "essence": {
                 "title": "",
@@ -972,15 +1327,21 @@
                     "isSelected": true
                   }
                 ],
-                "description": "Wake up \nto ocean views \nand unwind into calm."
+                "description": "Wake up \nto ocean views \nand unwind into calm.",
+                "mediaType": "image",
+                "videos": []
               },
               "gallery": {
                 "title": "",
-                "images": []
+                "images": [],
+                "mediaType": "image",
+                "videos": []
               },
               "signature": {
                 "title": "",
-                "images": []
+                "images": [],
+                "mediaType": "image",
+                "videos": []
               }
             }
           ]
