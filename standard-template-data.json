@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.11.0",
-    "generatedAt": "2026-04-16T03:40:28.121Z",
+    "version": "1.12.0",
+    "generatedAt": "2026-04-16T08:34:14.687Z",
     "templateType": "fullpage_visual",
     "propertyId": "441011ea-5bbe-4477-b027-59149dd6f217",
     "homepageId": "cf1ecfe2-1b26-4fde-8ae4-e2a6130be25b"
@@ -961,8 +961,8 @@
       "propertyName": "여수 안단테 스파펜션",
       "name": "302호(스파, 오션뷰,테라스,애견동반)",
       "nameEn": "302 (Spa, Pet-Friendly)",
-      "description": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1",
-      "roomInfo": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1",
+      "description": "복층형, 거실1+침대룸(퀸침대1)+온돌룸(침구세트1)+주방1+화장실1\n",
+      "roomInfo": "복층형, 거실1+침대룸(퀸침대1)+온돌룸(침구세트1)+주방1+화장실1\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월이상~성인 10,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가",
       "group": null,
       "size": 42.98,
@@ -973,7 +973,7 @@
         "bedroom": 1,
         "bathroom": 1,
         "livingRoom": 1,
-        "ondol": 0,
+        "ondol": 1,
         "kitchen": 1
       },
       "roomOptions": {
@@ -988,7 +988,8 @@
         "checkinDeadline": "22:00"
       },
       "bedTypes": [
-        "퀸 베드"
+        "퀸 베드",
+        "온돌"
       ],
       "amenities": [
         "침대",
@@ -1024,9 +1025,9 @@
       ],
       "displayOrder": 9,
       "createdAt": "2026-04-06T03:32:19.173Z",
-      "updatedAt": "2026-04-10T08:43:16.167Z",
+      "updatedAt": "2026-04-16T08:32:38.601Z",
       "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "b44df484-2787-43ca-add4-16bba0d8bc83"
+      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
     },
     {
       "id": "2e42e779-fc68-4c58-82c9-022ba0214981",
